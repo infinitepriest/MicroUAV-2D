@@ -251,7 +251,7 @@ If you want a concrete example of how autonomy logic can be built on top of this
 
 **AgriDroneRL**: a vision-based drone navigation and coverage over top-down satellite imagery using a discrete action space and local observation patches. 
  
-GitHub: **https://github.com/aymisxx/AgriDroneRL**
+GitHub: **https://github.com/infinitepriest/AgriDroneRL**
 
 ![AgriDroneRL Demo](assets/agridrone_rl_demo.gif)
 
@@ -307,9 +307,9 @@ Potential future versions:
 
 ### **Ayushman M.** 
 
-> https://www.linkedin.com/in/aymisxx/
+> https://www.linkedin.com/in/infinitepriest/
 
-> https://github.com/aymisxx  
+> https://github.com/infinitepriest  
 
 
 ------------------------------------------------------------------------
